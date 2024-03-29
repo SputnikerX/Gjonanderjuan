@@ -11,6 +11,8 @@ public class HolaMundo {
 		System.out.println("cambio2 usuario1 local");
 		
 		System.out.println("cambio3 usuario1 local");
+		
+		System.out.println("cambio4 usuario1 remoto");
 
 
 	}
