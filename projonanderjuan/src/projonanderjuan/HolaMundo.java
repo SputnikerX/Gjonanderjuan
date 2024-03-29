@@ -21,7 +21,7 @@ public class HolaMundo {
 		
 		System.out.println("cambio5 usuario1 remot");
 
-
+		System.out.println("modificacion trunc usu2");
 	}
 
 }
